@@ -59,21 +59,10 @@ npm install
 npm run dev
 ```
 
-The app will run at [http://localhost:5173](http://localhost:5173)
+The app will run at (https://quick-chef.netlify.app)
 
-## 📂 Project Structure
 
-quickchef/
-├── src/
-│   ├── api/              # API helper functions
-│   ├── components/       # UI components (SearchBar, RecipeCard, Ingredients, Modal)
-│   ├── pages/            # Page components (Home.jsx)
-│   ├── App.jsx           # Root component
-│   └── main.jsx          # Entry point
-├── public/               # Static assets
-├── package.json
-└── README.md
-```
+
 
 ## 🎯 Future Enhancements
 
